@@ -1,1 +1,1 @@
-Respoitoriio de avance del proyecto
+Respositorio de avance del proyecto
