@@ -10,12 +10,16 @@ DB. DBPEDIA Mapping Based Properties
 
 **3.- Arquitectura**
 
-DBPEDIA Mapping Based Properties
+-DBPEDIA Mapping Based Properties
 
-HW. AWS (Amazon Web Services) RAM 16 +, HD 1+ TB, CPU Intel Core i7 DB. 
-    SO. Linux, Ubuntu 12,
-        SW(base) Eclipse (java) en virtud que neo4j es una Java API
-            SW(main) Neo4j (Graph database)
+- HW. AWS (Amazon Web Services) RAM 16 +, HD 1+ TB, CPU Intel Core i7 DB. 
+
+    - SO. Linux, Ubuntu 12,
+
+        - SW(base) Eclipse (java) en virtud que neo4j es una Java API
+
+            - SW(main) Neo4j (Graph database)
+
 
 **4.- Plan de trabajo**
 - Recuperar informaciion de DBPedia (MBP) 
