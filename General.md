@@ -12,7 +12,7 @@ DB. DBPEDIA Mapping Based Properties
 
 -DBPEDIA Mapping Based Properties
 
-- HW. AWS (Amazon Web Services) RAM 16 +, HD 1+ TB, CPU Intel Core i7 DB. 
+- HW. AWS (Amazon Web Services) RAM 16 GB+, HD 1+ TB, CPU Intel Core i7 DB. 
 
     - SO. Linux, Ubuntu 12,
 
