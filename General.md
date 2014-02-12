@@ -32,6 +32,10 @@ DB. DBPEDIA Mapping Based Properties
 
 **5.- Entregables**
 
+Grafos
+
+Predicción
+
 
 
 
