@@ -150,11 +150,11 @@ SHARK iniciar server
 14/05/17 23:06:03 INFO server.Server: jetty-7.x.y-SNAPSHOT
 14/05/17 23:06:03 INFO server.AbstractConnector: Started SocketConnector@0.0.0.0:39745
 Welcome to
-      ____              __
-     / __/__  ___ _____/ /__
-    _\ \/ _ \/ _ `/ __/  '_/
-   /___/ .__/\_,_/_/ /_/\_\   version 0.9.1
-      /_/
+      ____              __  
+     / __/__  ___ _____/ /__  
+    _\ \/ _ \/ _ `/ __/  '_/  
+   /___/ .__/\_,_/_/ /_/\_\   version 0.9.1  
+      /_/  
 
 Using Scala version 2.10.3 (OpenJDK 64-Bit Server VM, Java 1.7.0_51)
 Type in expressions to have them evaluated.
